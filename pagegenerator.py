@@ -17,6 +17,7 @@ else:
     for f in files:
         os.remove(f)
     # create 'Pages' folder
+    os.rmdir('Pages')
     os.makedirs('Pages')
     
 i = 1
