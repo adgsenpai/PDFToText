@@ -1,4 +1,4 @@
-PIL
+Pillow
 pytesseract
 pdf2image
-cv2
+opencv-python
