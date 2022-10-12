@@ -1,0 +1,4 @@
+PIL
+pytesseract
+pdf2image
+cv2
